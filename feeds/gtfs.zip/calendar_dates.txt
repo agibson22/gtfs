@@ -1,0 +1,4 @@
+"service_id","date","exception_type"
+"MTUWTF","20170529",2
+"MTUWT","20170529",2
+"SU","20170529",1
